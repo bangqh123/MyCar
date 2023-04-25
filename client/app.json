@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "MYCAR",
+    "slug": "final",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/login.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/login.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#445E38"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/login.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
